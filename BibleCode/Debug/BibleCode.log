@@ -1,0 +1,8 @@
+﻿  BibleCode.cpp
+f:\studio\visual\kurs3\biblecode\biblecode\biblecode.cpp(77): warning C4018: '<': signed/unsigned mismatch
+f:\studio\visual\kurs3\biblecode\biblecode\biblecode.cpp(83): warning C4018: '<': signed/unsigned mismatch
+f:\studio\visual\kurs3\biblecode\biblecode\biblecode.cpp(93): warning C4018: '<': signed/unsigned mismatch
+f:\studio\visual\kurs3\biblecode\biblecode\biblecode.cpp(125): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+f:\studio\visual\kurs3\biblecode\biblecode\biblecode.cpp(130): warning C4018: '<': signed/unsigned mismatch
+f:\studio\visual\kurs3\biblecode\biblecode\biblecode.cpp(132): warning C4018: '<': signed/unsigned mismatch
+  BibleCode.vcxproj -> F:\STUDIO\VISUAL\KURS3\BibleCode\Debug\BibleCode.exe
